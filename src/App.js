@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MapView from 'react-native-maps';
 
 class App extends Component {
   render() {
